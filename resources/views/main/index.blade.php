@@ -9,7 +9,10 @@
                      <div class="col-md-8">
                         <div class="single-video-left">
                            <div class="single-video">
-                              <iframe width="100%" height="550" src="https://www.youtube.com/embed/Os8FjiNtJcU?ecver=1&amp;autoplay=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                              <video width="100%" height="550px" autoplay="on" controls>
+                                 <source src="{{ asset('storage/upload/Prakash Chand Jain(1).mp4')}}" type="video/mp4">
+
+                              </video>
                            </div>
                            <div class="single-video-title box mb-3">
                               <h2>Prakesh Chand Jain Director Chamber of Industries</h2>

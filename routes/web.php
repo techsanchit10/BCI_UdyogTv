@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('main.video');
+    return view('main.index');
 });
