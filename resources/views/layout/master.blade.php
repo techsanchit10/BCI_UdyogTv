@@ -28,7 +28,49 @@
       <!-- TOP NAV BAR END -->
 
 
-      @yield('content')
+       <div id="wrapper">
+         <!-- Sidebar -->
+         <ul class="sidebar navbar-nav">
+            <li class="nav-item active">
+               <a class="nav-link" href="video-page.html">
+               <i class="fas fa-fw fa-home"></i>
+               <span>Home</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="single-channel.html">
+               <i class="fas fa-fw fa-user-alt"></i>
+               <span>Job Portal</span>
+               </a>
+            </li>
+            <li class="nav-item dropdown">
+               <a class="nav-link dropdown-toggle" href="categories.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <i class="fas fa-fw fa-list-alt"></i>
+               <span>Industries</span>
+               </a>
+               <div class="dropdown-menu">
+                  <a class="dropdown-item" href="categories.html">Bhawana</a>
+                  <a class="dropdown-item" href="categories.html">Narela</a>
+                  <a class="dropdown-item" href="categories.html">Others</a>
+               </div>
+            </li>
+         </ul>
+
+         <!-- SIDE NAV BAR SHOULD END HERE!!!! -->
+
+         
+
+
+         <div id="content-wrapper">
+            <div class="container-fluid pb-0">
+                  @yield('content')
+               </div>
+            </div>
+            <!-- /.container-fluid -->
+           
+         </div>
+
+            <!-- SIDE NAV BAR END -->
 
 
       <!-- /#wrapper -->
