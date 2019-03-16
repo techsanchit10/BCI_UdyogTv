@@ -19,7 +19,8 @@
       <link rel="stylesheet" href="/vendor/owl-carousel/owl.carousel.css">
       <link rel="stylesheet" href="/vendor/owl-carousel/owl.theme.css">
    </head>
-   <body id="page-top">
+   <body >
+      <div class='thetop'></div>
 
       <!-- TOP NAV BAR -->
       
@@ -75,11 +76,13 @@
 
       <!-- /#wrapper -->
       <!-- Scroll to Top Button-->
-      <a class="scroll-to-top rounded" href="#page-top">
+      {{-- <a class="scroll rounded" href="#page-top">
       <i class="fas fa-angle-up"></i>
-      </a>
-      <!-- Logout Modal-->
-      <!-- Bootstrap core JavaScript-->
+      </a> --}}
+
+      <div class='scrolltop'>
+          <div class='scroll icon '><i class="fa fa-4x fa-angle-up rounded"></i></div>
+      </div>
      
       <script type="text/javascript" src="/js/app.js"></script>
    </body>

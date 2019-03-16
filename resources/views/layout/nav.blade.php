@@ -15,7 +15,7 @@
                </div>
             </div>
          </form>
-         <button type="button" class="btn btn-info border-none">Register</button>
-         <button type="button" class="btn btn-success border-none">Login</button>        
+         <button type="button" class="btn btn-info">Register</button>
+         <button type="button" class="btn btn-success">Login</button>        
    </nav>
 

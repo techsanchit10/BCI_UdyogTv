@@ -16932,188 +16932,8 @@ body.sidebar-toggled footer.sticky-footer {
   border: none;
 }
 
-.bg-primary,
-.btn-primary,
-.btn-outline-primary:hover,
-.badge-primary {
-  border-color: transparent !important;
-  background: #ff516b;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #a5a7aa 0%, #a5a7aa 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ff516b", endColorstr="#826cfd",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-outline-primary {
-  border-color: #ff516b;
-  color: #ff516b;
-}
-
-.text-primary {
-  color: #ff516b !important;
-}
-
 .progress-bar {
   background-color: #ff516b;
-}
-
-.bg-success,
-.btn-success,
-.btn-outline-success:hover,
-.badge-success {
-  border-color: transparent !important;
-  background: #4eda92;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #4eda92 1%, #56e0cb 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#4eda92", endColorstr="#56e0cb",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-success {
-  margin-right: 50px;
-}
-
-.btn-outline-success {
-  border-color: #4eda92;
-  color: #4eda92;
-}
-
-.text-success {
-  color: #4eda92 !important;
-}
-
-.bg-warning,
-.btn-warning,
-.btn-outline-warning:hover,
-.badge-warning {
-  border-color: transparent !important;
-  background: #ffc107;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #ffc107 1%, #fffc07 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffc107", endColorstr="#fffc07",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-outline-warning {
-  border-color: #ffc107;
-  color: #ffc107;
-}
-
-.text-warning {
-  color: #ffc107 !important;
-}
-
-.bg-danger,
-.btn-danger,
-.btn-outline-danger:hover,
-.badge-danger {
-  border-color: transparent !important;
-  background: #ff253a;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #ff253a 0%, #ff8453 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ff253a", endColorstr="#ff8453",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-outline-danger {
-  border-color: #ff253a;
-  color: #ff253a;
-}
-
-.text-danger {
-  color: #ff253a !important;
-}
-
-.bg-secondary,
-.btn-secondary,
-.btn-outline-secondary:hover,
-.badge-secondary {
-  border-color: transparent !important;
-  background: #9ba8aa;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #9ba8aa 0%, #92b4d2 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#9ba8aa", endColorstr="#92b4d2",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-outline-secondary {
-  border-color: #9ba8aa;
-  color: #9ba8aa;
-}
-
-.text-secondary {
-  color: #9ba8aa !important;
-}
-
-.bg-info,
-.btn-info,
-.btn-outline-info:hover,
-.badge-info {
-  border-color: transparent !important;
-  background: #17a2b8;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #17a2b8 1%, #30def9 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#17a2b8", endColorstr="#30def9",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-info {
-  margin-right: 30px;
-}
-
-.btn-outline-info {
-  border-color: #17a2b8;
-  color: #17a2b8;
-}
-
-.text-info {
-  color: #17a2b8 !important;
-}
-
-.bg-dark,
-.btn-dark,
-.btn-outline-dark:hover,
-.badge-dark {
-  border-color: transparent !important;
-  background: #171b20;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #171b20 1%, #343a40 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#171b20", endColorstr="#343a40",GradientType=1 );
-  /* IE6-9 fallback on horizontal gradient */
-}
-
-.btn-outline-dark {
-  border-color: #171b20;
-  color: #171b20;
-}
-
-.text-dark {
-  color: #171b20 !important;
-}
-
-.btn-light {
-  border: medium none;
 }
 
 .adblock {
@@ -17183,16 +17003,6 @@ label {
 a {
   color: #ff516b;
   text-decoration: none !important;
-}
-
-.btn {
-  border-radius: 2px;
-}
-
-.btn-light {
-  background: #f8f8f8 none repeat scroll 0 0;
-  border-color: #d3d3d3;
-  color: #828282;
 }
 
 .dropdown-header {
@@ -17549,12 +17359,6 @@ h6 {
   margin: 0 2px;
   opacity: unset;
   width: 16px;
-}
-
-.btn-lg,
-.btn-group-lg > .btn {
-  font-size: 15px;
-  padding: 12px 16px;
 }
 
 .login-main-right .owl-theme .owl-controls .owl-page.active span,
@@ -18231,7 +18035,7 @@ h6 {
   }
 
   .single-channel-nav .form-control,
-  .single-channel-nav .btn-outline-success {
+  .single-channel-nav {
     display: none;
   }
 
@@ -18254,5 +18058,52 @@ h6 {
   .sidebar-toggled .sidebar .channel-sidebar-list {
     display: none;
   }
+}
+
+.scrolltop {
+  display: none;
+  width: 100%;
+  margin: 0 auto;
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+}
+
+.scroll {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: #b2b2b2;
+  background: rgba(178, 178, 178, 0.7);
+  padding: 20px;
+  text-align: center;
+  margin: 0 0 0 0;
+  cursor: pointer;
+  transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+
+.scroll:hover {
+  background: #b2b2b2;
+  transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+
+.scroll:hover .fa {
+  padding-top: -10px;
+}
+
+.scroll .fa {
+  font-size: 30px;
+  margin-top: -5px;
+  margin-left: 1px;
+  transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
 }
 

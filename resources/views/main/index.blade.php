@@ -20,11 +20,69 @@
                            </div>
                            
                            <div class="single-video-info-content box mb-3 text-justify ">
-                              BCI Content Here!
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, voluptatum modi animi aperiam iusto! Veniam deserunt sequi animi explicabo? Veniam quisquam dignissimos nemo fugiat, quasi suscipit facere aut quo, commodi!
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore ratione cum beatae facilis officia! Quasi debitis, molestias, minus quo facere vero cum a cupiditate veritatis itaque reprehenderit aperiam illo beatae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque tenetur, praesentium. Saepe, dolor. Quibusdam rerum culpa molestiae eligendi dolorem, sint odit et sunt, nostrum soluta, cumque quo rem quidem doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam earum doloremque, eos perferendis harum dolorum laudantium, alias reprehenderit odio, vitae rerum eaque! Minima, perferendis quasi nam fugiat eum unde modi.
+                              
 
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum libero aspernatur ad ea est rem fugiat consequatur, quo dolorum beatae laboriosam nostrum, mollitia pariatur non hic velit laborum eum harum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero nesciunt saepe. Saepe eos tenetur, consectetur laudantium maxime rem veniam a voluptates ad quaerat nam aspernatur nobis, alias optio aperiam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, quas magnam repellendus! Dolorum totam repudiandae laborum explicabo assumenda ab dolorem aut consequatur id provident facere eos earum, odit optio, voluptatum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam non enim repudiandae mollitia ducimus, velit magnam fuga perferendis fugiat corporis odio placeat magni dignissimos, accusamus provident veniam officia animi vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore pariatur quae, numquam minima excepturi! Consequuntur sapiente doloremque iure eum, voluptate blanditiis nam pariatur nostrum quod, facere id, eius, obcaecati aspernatur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum libero aspernatur ad ea est rem fugiat consequatur, quo dolorum beatae laboriosam nostrum, mollitia pariatur non hic velit laborum eum harum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero nesciunt saepe. Saepe eos tenetur, consectetur laudantium maxime rem veniam a voluptates ad quaerat nam aspernatur nobis, alias optio aperiam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, quas magnam repellendus! Dolorum totam repudiandae laborum explicabo assumenda ab dolorem aut consequatur id provident facere eos earum, odit optio, voluptatum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam non enim repudiandae mollitia ducimus, velit magnam fuga perferendis fugiat corporis odio placeat magni dignissimos, accusamus provident veniam officia animi vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore pariatur quae, numquam minima excepturi! Consequuntur sapiente doloremque iure eum, voluptate blanditiis nam pariatur nostrum quod, facere id, eius, obcaecati aspernatur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum libero aspernatur ad ea est rem fugiat consequatur, quo dolorum beatae laboriosam nostrum, mollitia pariatur non hic velit laborum eum harum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero nesciunt saepe. Saepe eos tenetur, consectetur laudantium maxime rem veniam a voluptates ad quaerat nam aspernatur nobis, alias optio aperiam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, quas magnam repellendus! Dolorum totam repudiandae laborum explicabo assumenda ab dolorem aut consequatur id provident facere eos earum, odit optio, voluptatum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam non enim repudiandae mollitia ducimus, velit magnam fuga perferendis fugiat corporis odio placeat magni dignissimos, accusamus provident veniam officia animi vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore pariatur quae, numquam minima excepturi! Consequuntur sapiente doloremque iure eum, voluptate blanditiis nam pariatur nostrum quod, facere id, eius, obcaecati aspernatur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum libero aspernatur ad ea est rem fugiat consequatur, quo dolorum beatae laboriosam nostrum, mollitia pariatur non hic velit laborum eum harum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero nesciunt saepe. Saepe eos tenetur, consectetur laudantium maxime rem veniam a voluptates ad quaerat nam aspernatur nobis, alias optio aperiam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, quas magnam repellendus! Dolorum totam repudiandae laborum explicabo assumenda ab dolorem aut consequatur id provident facere eos earum, odit optio, voluptatum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam non enim repudiandae mollitia ducimus, velit magnam fuga perferendis fugiat corporis odio placeat magni dignissimos, accusamus provident veniam officia animi vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore pariatur quae, numquam minima excepturi! Consequuntur sapiente doloremque iure eum, voluptate blanditiis nam pariatur nostrum quod, facere id, eius, obcaecati aspernatur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum libero aspernatur ad ea est rem fugiat consequatur, quo dolorum beatae laboriosam nostrum, mollitia pariatur non hic velit laborum eum harum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero nesciunt saepe. Saepe eos tenetur, consectetur laudantium maxime rem veniam a voluptates ad quaerat nam aspernatur nobis, alias optio aperiam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, quas magnam repellendus! Dolorum totam repudiandae laborum explicabo assumenda ab dolorem aut consequatur id provident facere eos earum, odit optio, voluptatum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam non enim repudiandae mollitia ducimus, velit magnam fuga perferendis fugiat corporis odio placeat magni dignissimos, accusamus provident veniam officia animi vel?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore pariatur quae, numquam minima excepturi! Consequuntur sapiente doloremque iure eum, voluptate blanditiis nam pariatur nostrum quod, facere id, eius, obcaecati aspernatur?
+
+                              {{--  card start --}}
+
+                                    <div class="card">
+                                       <div class="row ">
+                                         <div class="col-md-4">
+                                             <img src="https://placeholdit.imgix.net/~text?txtsize=38&txt=400%C3%97400&w=400&h=400" class="w-100">
+                                           </div>
+                                           <div class="col-md-8 px-3">
+                                             <div class="card-block px-3">
+                                               <h4 class="card-title">Lorem ipsum dolor sit amet</h4>
+                                               <p class="card-text">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                                               <p class="card-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                               <a href="#" class="btn btn-primary">Read More</a>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     {{-- card end  --}}
+                                    <hr>
+                                        {{--  card start --}}
+                              
+                                    <div class="card">
+                                       <div class="row ">
+                                         <div class="col-md-4">
+                                             <img src="https://placeholdit.imgix.net/~text?txtsize=38&txt=400%C3%97400&w=400&h=400" class="w-100">
+                                           </div>
+                                           <div class="col-md-8 px-3">
+                                             <div class="card-block px-3">
+                                               <h4 class="card-title">Lorem ipsum dolor sit amet</h4>
+                                               <p class="card-text">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                                               <p class="card-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                               <a href="#" class="btn btn-primary">Read More</a>
+                                             </div>
+                                           </div>
+                                         </div>
+                                 </div>
+                                     {{-- card end  --}}
+
+                                     <hr>
+                                        {{--  card start --}}
+                              
+                                       <div class="card">
+                                          <div class="row ">
+                                            <div class="col-md-4">
+                                                <img src="https://placeholdit.imgix.net/~text?txtsize=38&txt=400%C3%97400&w=400&h=400" class="w-100">
+                                              </div>
+                                              <div class="col-md-8 px-3">
+                                                <div class="card-block px-3">
+                                                  <h4 class="card-title">Lorem ipsum dolor sit amet</h4>
+                                                  <p class="card-text">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                                                  <p class="card-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                  <a href="#" class="btn btn-primary">Read More</a>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                     {{-- card end  --}}
+
+
+
                            </div>
                         </div>
                      </div>
