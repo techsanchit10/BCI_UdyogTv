@@ -10,7 +10,7 @@
                         <div class="single-video-left">
                            <div class="single-video">
                               <video width="100%" height="550px" autoplay="on" controls>
-                                 <source src="{{ asset('storage/upload/Prakash Chand Jain(1).mp4')}}" type="video/mp4">
+                                 <source src="{{ asset('storage/upload/Prakesh Chand Jain(1).mp4')}}" type="video/mp4">
 
                               </video>
                            </div>
@@ -97,10 +97,11 @@
                                  </div>
                               </div>
                               <div class="col-md-12">
+                                @foreach($files as $file)
                                  <div class="video-card video-card-list">
                                     <div class="video-card-image">
                                        <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                                       <a href="#"><img class="img-fluid" src="img/v1.png" alt=""></a>
+                                       <a href="#"><img class="img-fluid" src="{{ asset('storage/upload/thumbs'.$file->thumbnail.'.jpeg') }}" alt=""></a>
                                        <div class="time">3:50</div>
                                     </div>
                                     <div class="video-card-body">
@@ -109,48 +110,10 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="video-card video-card-list">
-                                    <div class="video-card-image">
-                                       <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                                       <a href="#"><img class="img-fluid" src="img/v1.png" alt=""></a>
-                                       <div class="time">3:50</div>
-                                    </div>
-                                    <div class="video-card-body">
-                                       <div class="video-title">
-                                          <a href="#">Video Title 2</a>
-                                       </div>
-                                       
-                                    </div>
-                                 </div>
-                                 <div class="video-card video-card-list">
-                                    <div class="video-card-image">
-                                       <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                                       <a href="#"><img class="img-fluid" src="img/v1.png" alt=""></a>
-                                       <div class="time">3:50</div>
-                                    </div>
-                                    <div class="video-card-body">
-                                       <div class="video-title">
-                                          <a href="#">Video Title 3</a>
-                                       </div>
-                                       
-                                    </div>
-                                 </div>
-                                 <div class="video-card video-card-list">
-                                    <div class="video-card-image">
-                                       <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                                       <a href="#"><img class="img-fluid" src="img/v1.png" alt=""></a>
-                                       <div class="time">3:50</div>
-                                    </div>
-                                    <div class="video-card-body">
-                                       
-                                       <div class="video-title">
-                                          <a href="#">Video Title 4</a>
-                                       </div>
-                                       
-                                    </div>
-                                 </div>
-                                
+                                 @endforeach                             
                               </div>
+                              
+
                            </div>
                         </div>
                      </div>

@@ -14,3 +14,10 @@
 Route::get('/', function () {
     return view('main.index');
 });
+
+
+Route::get('file','FileController@showUploadForm')->name('upload.file');
+
+Route::post('file','FileController@storeFile');
+
+Route::get('/','FileController@display');

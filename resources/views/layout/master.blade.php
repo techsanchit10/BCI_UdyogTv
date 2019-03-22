@@ -11,7 +11,7 @@
       <title>@yield('title')</title>
       
       <!-- Favicon Icon -->
-      <link rel="icon" type="image/png" href="/img/udyog_logo.png">
+      <link rel="icon" type="image/png" href="{{asset('/img/udyog_logo.png')}}">
       <!-- Bootstrap core CSS-->
       <!-- Custom styles for this template-->
       <link href="/css/app.css" rel="stylesheet">
@@ -33,7 +33,7 @@
          <!-- Sidebar -->
          <ul class="sidebar navbar-nav">
             <li class="nav-item active">
-               <a class="nav-link" href="video-page.html">
+               <a class="nav-link" href="/">
                <i class="fas fa-fw fa-home"></i>
                <span>Home</span>
                </a>
