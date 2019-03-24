@@ -1,6 +1,6 @@
 @extends('layout.master')
 
-@section('title','BCI - Bhawana Chamber of Industries')
+@section('title','Upload File')
 
 @section('content')
 
@@ -8,7 +8,7 @@
 			<br>
 				<form action="{{ route('upload.file') }}" method="post" class="form-horizontal" enctype="multipart/form-data">
 					{{ csrf_field() }}
-				<input type="file" name="file">
+				<input type="file" name="videoFile">
 				<br><br> 
 				<input type="Submit" class="btn btn-info">
 			</form>

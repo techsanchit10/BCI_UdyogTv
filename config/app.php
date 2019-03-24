@@ -175,8 +175,14 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        //video thumbnail
-        Pawlox\VideoThumbnail\VideoThumbnailServiceProvider::class
+        Lakshmaji\Thumbnail\ThumbnailServiceProvider::class,
+
+
+       
+
+
+
+       
 
     ],
 
@@ -229,8 +235,10 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
-        //video thumbnail 
-        'VideoThumbnail' => Pawlox\VideoThumbnail\Facade\VideoThumbnail::class
+        'Thumbnail' => Lakshmaji\Thumbnail\Facade\Thumbnail::class,
+
+        
+
 
 
     ],
