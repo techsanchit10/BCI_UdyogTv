@@ -103,12 +103,12 @@
                                  <div class="video-card video-card-list">
                                     <div class="video-card-image">
                                        <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                                       <a href="#"><img class="img-fluid" src="{{ asset('storage/upload/thumbs/'.$file->thumbnail.'.jpeg') }}" alt=""></a>
+                                       <a href="#"><img class="img-fluid" src="{{ asset('storage/thumbs/'.$file->thumbnail) }}" alt="" height="77px"></a>
                                        <div class="time">3:50</div>
                                     </div>
                                     <div class="video-card-body">
                                        <div class="video-title">
-                                          <a href="#">Video Title 1</a>
+                                          <a href="#">{{ $file->name }}</a>
                                        </div>
                                     </div>
                                  </div>
