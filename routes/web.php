@@ -21,3 +21,7 @@ Route::get('file','FileController@showUploadForm')->name('upload.file');
 Route::post('file','FileController@storeFile');
 
 Route::get('/','FileController@display');
+
+Route::get('/video', function(){
+	return view('main.video');
+});

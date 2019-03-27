@@ -14,10 +14,9 @@
       <link rel="icon" type="image/png" href="{{asset('/img/udyog_logo.png')}}">
       <!-- Bootstrap core CSS-->
       <!-- Custom styles for this template-->
-      <link href="/css/app.css" rel="stylesheet">
+
+      @yield('assets')
       <!-- Owl Carousel -->
-      <link rel="stylesheet" href="/vendor/owl-carousel/owl.carousel.css">
-      <link rel="stylesheet" href="/vendor/owl-carousel/owl.theme.css">
    </head>
    <body >
       <div class='thetop'></div>

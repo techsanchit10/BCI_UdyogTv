@@ -2,6 +2,12 @@
 
 @section('title','BCI - Bhawana Chamber of Industries')
 
+@section('assets')
+
+  <link rel="stylesheet" href="{{asset('/css/app.css') }}">
+
+@endsection
+
 @section('content')
 
    <div class="video-block section-padding">
